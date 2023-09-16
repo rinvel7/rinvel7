@@ -22,11 +22,11 @@
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />  
  <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
-
 </div>
 
-
-Eu gosto de aprender novas coisas, adaptando-me rapidamente às mudanças. Atualmente estudo Backend, de essa forma busco melhores habilidades técnicas tanto lado do cliente como do servidor, no momento de criar um aplicativo.
+<div style="display: inline-block"><br/>
+ Eu gosto de aprender novas coisas, adaptando-me rapidamente às mudanças. Atualmente estudo Backend, de essa forma busco melhores habilidades técnicas tanto lado do cliente como do servidor, no momento de criar um aplicativo.
+</div>
 
 ## Tecnologias que estou aprendendo
 <div style="display: inline-block"><br/>
