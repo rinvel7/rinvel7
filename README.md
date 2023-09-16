@@ -21,7 +21,17 @@
   <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />  
+ <img align="center" alt="vercel" src=" https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
+
 </div>
 
 
-Eu gosto de aprender novas coisas, adaptando-me rapidamente às mudanças. Atualmente estudo Backend, de essa forma busco melhores habilidades técnicas no momento de criar um aplicativo.
+Eu gosto de aprender novas coisas, adaptando-me rapidamente às mudanças. Atualmente estudo Backend, de essa forma busco melhores habilidades técnicas tanto lado do cliente como do servidor, no momento de criar um aplicativo.
+
+## Tecnologias que estou aprendendo
+<div style="display: inline-block"><br/>
+  <img align="center" alt="express" src="	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> 
+</div>
+
+
